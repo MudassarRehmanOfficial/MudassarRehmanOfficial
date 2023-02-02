@@ -9,7 +9,7 @@
 
 🎓 &nbsp;I have a bacholar degree in Computer Science.
 
-👨‍💻 &nbsp; Currently, I am working on ASP.Net Core.
+👨‍💻 &nbsp; Currently, I am working on ASP.Net Core and react js.
 
 ❤️ &nbsp; In my spare time, I teach what I have and explore nature with my friends.
 
@@ -27,3 +27,4 @@
 !Asp.Net Core&nbsp;
 !Asp.Net MVC&nbsp;
 !MYSQL&nbsp;
+!ReactJS&nbsp;
